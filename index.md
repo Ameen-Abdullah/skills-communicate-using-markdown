@@ -11,8 +11,21 @@
 ![kanna kamui](https://github.com/alemx-cute/skills-communicate-using-markdown/assets/138287271/020afcd5-dab2-491f-9d20-a2e49b04c07b)
 
 
+initializing git
+
+```
+$ git init
+$ npm i
+$ npm i gsap
+```
+
+writing javascript
 
 
+``` javascript
+let mulearn = "best club in the college";
+console.log(mulearn);
+```
 
 
 
