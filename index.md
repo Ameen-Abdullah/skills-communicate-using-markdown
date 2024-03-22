@@ -27,6 +27,17 @@ let mulearn = "best club in the college";
 console.log(mulearn);
 ```
 
+task lists 
+
+
+- [x] studied
+- [x] ate iftar
+- [ ] creached level 4
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] my name is ameen
 
 
 Introduction to markdown ✅.Learned how to type different sizes of headers in github.
