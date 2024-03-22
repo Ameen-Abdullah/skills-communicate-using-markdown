@@ -7,6 +7,11 @@
 
 
 
+### Picture of kanna kamui
+![kanna kamui](https://github.com/alemx-cute/skills-communicate-using-markdown/assets/138287271/020afcd5-dab2-491f-9d20-a2e49b04c07b)
+
+
+
 
 
 
